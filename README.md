@@ -5,6 +5,12 @@ This can be seen as a simple tutorial for-
 
 2)Get results in excel. 
 
+Simplified Flow-
+1)Imports
+2)Data cleaning 
+3)Putting in excel.
+
+#We also have the option to take output  in csv,tab-delimited notepad file. If you want, let me know, I will add the code for it.
 Note:
 1)Not all sites allow webscraping. This is just an example.
 2)To scrape data for desired website,first take appropriate permission and then proceed. 
